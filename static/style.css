@@ -1,0 +1,12 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+main {
+  text-align: center;
+  color: rgb(10, 11, 11);
+}
+
+.greeting-image {
+  height: 400px;
+}
