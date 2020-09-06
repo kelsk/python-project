@@ -15,3 +15,4 @@ We can use this repo to practice making changes to a github project and ultimate
 - CLONE the repo from your fork
 - On your computer, cd into the folder "python-project"
 - Run the app from your terminal using the command `FLASK_APP=app.py flask run`
+- Navigate to `localhost:5000` in your browser to see your running app
